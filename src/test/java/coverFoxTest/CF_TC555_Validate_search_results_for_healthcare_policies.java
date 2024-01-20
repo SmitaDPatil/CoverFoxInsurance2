@@ -116,8 +116,10 @@ public class CF_TC555_Validate_search_results_for_healthcare_policies extends Ba
 		Thread.sleep(7000);
 	    closeCoverFox();
 	}
+	
+	}
  
-}
+
 
 //public static Logger logger;
 //logger= logger.getLogger("COVERFOXINSURANCE");
